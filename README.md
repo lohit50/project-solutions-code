@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lohit50/project-solutions-code/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lohit50/project-solutions-code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
