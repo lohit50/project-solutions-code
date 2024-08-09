@@ -7,10 +7,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/lohit50/project-solutions-code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lohit50/project-solutions-code/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -21,11 +23,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohit50/project-solutions-code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohit50/project-solutions-code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +43,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
