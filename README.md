@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lohit50/project-solutions-code/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohit50/project-solutions-code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 ## Trie
 |  |
