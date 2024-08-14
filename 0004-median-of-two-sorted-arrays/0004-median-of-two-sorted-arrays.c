@@ -1,13 +1,12 @@
 double findMedianSortedArrays(int* arr1, int n1, int* arr2, int n2) {
         int max_n = n1+n2;
-    int flag = 0,j=-1;
+    int j=-1;
     int joint[n1+n2];
     for(int i=0;i<max_n;i++){
         j++;
         if(i<n1){
             joint[i] = arr1[j];
             if(i==n1-1){
-                flag = 1;
                 j=-1;
             }
         }else if(j<n2){
