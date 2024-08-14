@@ -24,13 +24,7 @@ double findMedianSortedArrays(int* arr1, int n1, int* arr2, int n2) {
            }
        }
    }
-    if(max_n==1){
-        if(n1 == 1){
-            return arr1[0];
-        }else{
-            return arr2[0];
-        }
-    }
+    
    double result = 0.00;
    if(max_n%2!=0){
        result = joint[(max_n/2)];
