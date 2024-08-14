@@ -23,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lohit50/project-solutions-code/tree/master/0009-palindrome-number) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
+| [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
