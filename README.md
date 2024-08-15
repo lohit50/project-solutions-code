@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
 |  |
@@ -27,6 +29,7 @@
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lohit50/project-solutions-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lohit50/project-solutions-code/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -71,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sliding Window
 |  |
@@ -88,6 +92,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +101,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
