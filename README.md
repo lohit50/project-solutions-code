@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
@@ -76,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sliding Window
