@@ -14,6 +14,7 @@
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
+| [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
+| [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -76,6 +78,7 @@
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -117,4 +120,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
