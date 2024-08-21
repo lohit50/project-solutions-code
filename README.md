@@ -53,6 +53,7 @@
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
+| [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 ## Memoization
 |  |
