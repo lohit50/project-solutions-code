@@ -15,22 +15,22 @@ int* findDiagonalOrder(int** mat, int matSize, int* matColSize, int* returnSize)
 
     for (int i = 0; i < totalElements; i++) {
         result[k++] = mat[r][c];  
-        // If the sum of row and column indices is even, move upwards
+       
         if ((r + c) % 2 == 0) {
-            if (c == n - 1) { // Last column
+            if (c == n - 1) { 
                 r++;
-            } else if (r == 0) { // First row
+            } else if (r == 0) { 
                 c++;
-            } else { // Move up diagonally
+            } else { 
                 r--;
                 c++;
             }
-        } else { // Move downwards
-            if (r == m - 1) { // Last row
+        } else {
+            if (r == m - 1) { 
                 c++;
-            } else if (c == 0) { // First column
+            } else if (c == 0) {
                 r++;
-            } else { // Move down diagonally
+            } else {
                 r++;
                 c--;
             }
