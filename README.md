@@ -51,6 +51,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohit50/project-solutions-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/lohit50/project-solutions-code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
@@ -108,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
 ## Brainteaser
 |  |
