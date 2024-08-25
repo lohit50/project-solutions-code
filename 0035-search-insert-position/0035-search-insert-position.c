@@ -4,5 +4,5 @@ int searchInsert(int* arr, int n, int target) {
             return i;
         }
     }
-    return n;
+ return n;
 }
