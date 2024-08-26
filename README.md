@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/lohit50/project-solutions-code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
