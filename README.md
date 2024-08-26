@@ -61,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohit50/project-solutions-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/lohit50/project-solutions-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/lohit50/project-solutions-code/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
@@ -181,4 +183,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
