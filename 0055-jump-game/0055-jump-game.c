@@ -1,15 +1,19 @@
-bool canJump(int* nums, int numsSize){
-    int jump = 0;
-    for (int i = 0; i < numsSize; i++) {
-        if (jump < i) {
-            break;
+bool canJump(int* arr, int n) {
+    int jumped = 0;
+
+    for (int i = 0; i < n; i++) {
+        if (i > jumped) {
+            return false;
         }
-        if (jump < i + nums[i]) {
-            jump = i + nums[i];
+
+        if (i + arr[i] > jumped) {
+            jumped = i + arr[i];
         }
-        if (jump >= numsSize - 1) {
+
+        if (jumped >= n - 1) {
             return true;
         }
     }
+
     return false;
 }
