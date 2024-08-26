@@ -1,19 +1,16 @@
-bool canJump(int* arr, int n) {
-    int jumped = 0;
+#include <stdbool.h>
 
-    for (int i = 0; i < n; i++) {
-        if (i > jumped) {
+bool canJump(int* nums, int numsSize) {
+    int maxReach = 0;
+
+    for (int i = 0; i < numsSize; i++) {
+        if (i > maxReach) {
             return false;
         }
-
-        if (i + arr[i] > jumped) {
-            jumped = i + arr[i];
-        }
-
-        if (jumped >= n - 1) {
-            return true;
+        if (i + nums[i] > maxReach) {
+            maxReach = i + nums[i];
         }
     }
 
-    return false;
+    return true;
 }
