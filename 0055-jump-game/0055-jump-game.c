@@ -1,12 +1,14 @@
-bool canJump(int* arr, int n) {
-    int maxReach = 0;
-    for (int jumped = 0; jumped < n; jumped++) {
-        if (jumped > maxReach) {
-            return false;  // If jumped index is beyond maxReach, it's not possible to proceed.
+bool canJump(int* nums, int numsSize){
+    int jump = 0;
+    for (int i = 0; i < numsSize; i++) {
+        if (jump < i) {
+            break;
         }
-        maxReach = (jumped + arr[jumped] > maxReach) ? jumped + arr[jumped] : maxReach;
-        if (maxReach >= n - 1) {
-            return true;  // If maxReach reaches or exceeds the last index, return true.
+        if (jump < i + nums[i]) {
+            jump = i + nums[i];
+        }
+        if (jump >= numsSize - 1) {
+            return true;
         }
     }
     return false;
