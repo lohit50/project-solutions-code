@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/lohit50/project-solutions-code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit50/project-solutions-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
@@ -46,6 +47,7 @@
 | [0007-reverse-integer](https://github.com/lohit50/project-solutions-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lohit50/project-solutions-code/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/lohit50/project-solutions-code/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
