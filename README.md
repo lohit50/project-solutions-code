@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/lohit50/project-solutions-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit50/project-solutions-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/lohit50/project-solutions-code/tree/master/0084-largest-rectangle-in-histogram) |
 ## Brainteaser
 |  |
 | ------- |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/lohit50/project-solutions-code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
