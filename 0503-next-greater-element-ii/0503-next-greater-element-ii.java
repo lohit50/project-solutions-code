@@ -7,15 +7,15 @@ class Solution {
         
         int[] result = new int[arr1.length];
         for (int i = 0; i < n; i++) {
-            int found = 0;
+            int flag = 0;
             for (int j = i; j < i + n; j++) {
                 if (arr2[j] > arr1[i]) {
                     result[i] = arr2[j];
-                    found = 1;
+                    flag = 1;
                     break;
                 }
             }
-            if (found != 1) {
+            if (flag != 1) {
                 result[i] = -1;
             }
         }
