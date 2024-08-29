@@ -1,11 +1,10 @@
-int removeElement(int* arr, int n, int val) {
-    int i = 0;
-    while (i < n) {
-        if (arr[i] == val) {
-            arr[i] = arr[--n]; 
-        } else {
-            i++; 
+int removeElement(int* nums, int numsSize, int val) {
+    for(int i = 0; i < numsSize; i++){
+        if(nums[i] == val){
+            nums[i] = nums[numsSize-1];
+            numsSize--;
+            i--;
         }
     }
-    return n;
+    return numsSize;
 }
