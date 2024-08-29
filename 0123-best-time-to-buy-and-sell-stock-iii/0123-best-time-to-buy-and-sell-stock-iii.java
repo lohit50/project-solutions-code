@@ -7,7 +7,7 @@ class Solution {
         int maxProfit1 = 0;
         int maxProfit2 = 0;
         int minPrice1 = arr[0];
-        int minPrice2 = Integer.MAX_VALUE;
+        int minPrice2 = arr[1];
 
         for (int i = 1; i < arr.length; i++) {
             minPrice1 = Math.min(minPrice1, arr[i]);
