@@ -6,8 +6,9 @@ class Solution {
         for(int i=0;i<n;i++){
             if(arr[i]<min){
                 min = arr[i];
-            }
-            max_profit = Math.max(max_profit,arr[i]-min);
+            }else if(arr[i] - min > max_profit){
+                    max_profit = arr[i] - min;
+                }
             }
         return max_profit;
     }
