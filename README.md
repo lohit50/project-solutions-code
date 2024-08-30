@@ -56,6 +56,7 @@
 | [0009-palindrome-number](https://github.com/lohit50/project-solutions-code/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/lohit50/project-solutions-code/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/lohit50/project-solutions-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lohit50/project-solutions-code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/lohit50/project-solutions-code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/lohit50/project-solutions-code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
