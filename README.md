@@ -55,6 +55,7 @@
 | [0007-reverse-integer](https://github.com/lohit50/project-solutions-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lohit50/project-solutions-code/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/lohit50/project-solutions-code/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/lohit50/project-solutions-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lohit50/project-solutions-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/lohit50/project-solutions-code/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
