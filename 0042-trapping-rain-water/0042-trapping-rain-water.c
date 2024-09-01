@@ -10,18 +10,16 @@ int trap(int* height, int n) {
                 last_index = j;
             }
             if (height[j] >= height[i]) {
-                last_index = j;
                 greatest = height[i];
+                last_index = j;
                 break;
             }
         }
-        
         if (greatest > 0) {
             for (int k = last_index + 1; k < i; k++) {
                 traped += greatest - height[k];
             }
         }
-        
         i = last_index+1;
     }
     
