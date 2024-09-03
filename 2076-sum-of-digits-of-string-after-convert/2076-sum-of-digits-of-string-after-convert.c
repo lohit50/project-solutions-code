@@ -2,11 +2,8 @@ int getLucky(char* s, int k) {
     int sum = 0;
     int n = strlen(s);
     for(int i=0;i<n;i++){
-            int num =(s[i]-'a'+1);
-            while(num>0){
-                sum+=num%10;
-                num/=10;
-            }
+        int value = (s[i]-'a'+1);
+        sum += value/10 + value%10;
     }
 
     while(--k>0){
