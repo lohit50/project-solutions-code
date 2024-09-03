@@ -1,13 +1,19 @@
-long long uniquePaths(int m, int n) {
-    int N = m + n - 2;  // Total number of steps the robot needs to take
-    int k = m - 1;  // Choose the smaller of (m-1) and (n-1) to optimize the calculation
-    if (k > N - k) k = N - k;  // Since C(N, k) == C(N, N-k)
-    
-    long long res = 1;
-    
-    for (int i = 1; i <= k; i++) {
-        res = res * (N - i + 1) / i;
+int uniquePaths(int m, int n) {
+    int dp[m][n];
+    for(int i = 0; i < m; i++) {
+        dp[i][0] = 1;
     }
-    
-    return res;
+    for(int j = 0; j < n; j++) {
+        dp[0][j] = 1;
+    }
+
+    for(int i = 1; i < m; i++) {
+        for(int j = 1; j < n; j++) {
+            dp[i][j] = dp[i-1][j] + dp[i][j-1];
+        }
+    }
+
+    // The bottom-right corner will have the answer
+    int result = dp[m-1][n-1];
+    return result;
 }
