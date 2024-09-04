@@ -43,6 +43,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
