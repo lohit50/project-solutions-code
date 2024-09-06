@@ -202,6 +202,7 @@
 | [0035-search-insert-position](https://github.com/lohit50/project-solutions-code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lohit50/project-solutions-code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/lohit50/project-solutions-code/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/lohit50/project-solutions-code/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/lohit50/project-solutions-code/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/lohit50/project-solutions-code/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/lohit50/project-solutions-code/tree/master/0476-number-complement) |
@@ -311,6 +313,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/lohit50/project-solutions-code/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -323,4 +326,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/lohit50/project-solutions-code/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
