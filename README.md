@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/lohit50/project-solutions-code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/lohit50/project-solutions-code/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/lohit50/project-solutions-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lohit50/project-solutions-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lohit50/project-solutions-code/tree/master/0064-minimum-path-sum) |
@@ -147,6 +148,7 @@
 | [0005-longest-palindromic-substring](https://github.com/lohit50/project-solutions-code/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lohit50/project-solutions-code/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/lohit50/project-solutions-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lohit50/project-solutions-code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lohit50/project-solutions-code/tree/master/0063-unique-paths-ii) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/lohit50/project-solutions-code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
