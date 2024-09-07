@@ -1,8 +1,19 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int res=0;
-        for(int i=0;i<nums.length;i++){
-            res = res^nums[i];
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int n = nums.length;
+        for(int num : nums){
+            if(map.containsKey(num)){
+                map.put(num,map.get(num)+1);
+            }else{
+                map.put(num,1);
+            }
         }
-   return res; }
+        for(int num : nums){
+            if(map.get(num) == 1){
+                return num;
+            }
+        }
+        return -1;
+   }
 }
