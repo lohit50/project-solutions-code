@@ -13,7 +13,7 @@ class Solution {
         // }
         // return true;
 
-        int[] count = new int[1000];
+        int[] count = new int[101];
         for(int num:nums){
             count[num]++;
             if(count[num] > 2){
