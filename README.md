@@ -30,6 +30,7 @@
 | [0198-house-robber](https://github.com/lohit50/project-solutions-code/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/lohit50/project-solutions-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lohit50/project-solutions-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
@@ -232,6 +233,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/lohit50/project-solutions-code/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
