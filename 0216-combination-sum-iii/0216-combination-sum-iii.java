@@ -1,13 +1,12 @@
 class Solution {
     private void backtrack(int start, int k, int n, List<Integer> combinations, List<List<Integer>> res) {
-        if (k == 0 && n == 0) {
-            res.add(new ArrayList<>(combinations));
+        if (k == 0) {
+            if(n==0){
+                res.add(new ArrayList<>(combinations));
+            }
             return;
         }
         
-        if (k == 0 || n < 0) {
-            return;
-        }
         
         for (int i = start; i <= 9; i++) {
             combinations.add(i);
