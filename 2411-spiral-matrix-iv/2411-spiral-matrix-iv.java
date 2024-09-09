@@ -1,40 +1,39 @@
-/**
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
 
-    private void fillMatrix(int[][] matrix, int remainingRows, int remainingCols, int currentRow, int currentCol, int rowDirection, int colDirection, ListNode currentNode) {
-        if (remainingRows == 0 || remainingCols == 0 || currentNode == null) return;
+    private void fillMatrix(int[][] matrix, int m, int n, int currentRow, int currentCol, int direction, ListNode currentNode) {
+        if (currentNode == null) return;
 
-        for (int i = 1; i <= remainingCols; i++) {
-            if (currentNode == null) return;  // Stop if the linked list is exhausted
-            currentRow += rowDirection;
-            currentCol += colDirection;
-            matrix[currentRow][currentCol] = currentNode.val;
-            currentNode = currentNode.next;  // Move to the next node in the linked list
+        matrix[currentRow][currentCol] = currentNode.val;
+        currentNode = currentNode.next;
+
+        int nextRow = currentRow, nextCol = currentCol;
+        if (direction == 2) nextCol++;     // Move right
+        else if (direction == 3) nextRow++; // Move down
+        else if (direction == 4) nextCol--; // Move left
+        else if (direction == 1) nextRow--; // Move up
+
+        if (nextRow < 0 || nextRow >= m || nextCol < 0 || nextCol >= n || matrix[nextRow][nextCol] != -1) {
+            direction = direction % 4 + 1;
+            if (direction == 2) { nextRow = currentRow; nextCol = currentCol + 1; }
+            else if (direction == 3) { nextRow = currentRow + 1; nextCol = currentCol; } 
+            else if (direction == 4) { nextRow = currentRow; nextCol = currentCol - 1; } 
+            else if (direction == 1) { nextRow = currentRow - 1; nextCol = currentCol; } 
         }
 
-        // Continue filling the next part of the matrix by alternating directions
-        fillMatrix(matrix, remainingCols, remainingRows - 1, currentRow, currentCol, colDirection, -rowDirection, currentNode);
+        if (nextRow >= 0 && nextRow < m && nextCol >= 0 && nextCol < n && matrix[nextRow][nextCol] == -1) {
+            fillMatrix(matrix, m, n, nextRow, nextCol, direction, currentNode);
+        }
     }
 
-    public int[][] spiralMatrix(int totalRows, int totalCols, ListNode head) {
-        int[][] matrix = new int[totalRows][totalCols];
-        for (int i = 0; i < totalRows; i++) {
-            for (int j = 0; j < totalCols; j++) {
+    public int[][] spiralMatrix(int m, int n, ListNode head) {
+        int[][] matrix = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 matrix[i][j] = -1;
             }
         }
 
-        // Start filling the matrix from position (0, -1) and initially move to the right
-        fillMatrix(matrix, totalRows, totalCols, 0, -1, 0, 1, head);
+        fillMatrix(matrix, m, n, 0, 0, 2, head);
 
         return matrix;
     }
