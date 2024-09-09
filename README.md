@@ -40,6 +40,7 @@
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
@@ -68,6 +69,7 @@
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
