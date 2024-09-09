@@ -13,16 +13,14 @@ class Solution {
         else if (direction == 1) nextRow--; // Move up
 
         if (nextRow < 0 || nextRow >= m || nextCol < 0 || nextCol >= n || matrix[nextRow][nextCol] != -1) {
-            direction = direction % 4 + 1;
-            if (direction == 2) { nextRow = currentRow; nextCol = currentCol + 1; }
-            else if (direction == 3) { nextRow = currentRow + 1; nextCol = currentCol; } 
-            else if (direction == 4) { nextRow = currentRow; nextCol = currentCol - 1; } 
-            else if (direction == 1) { nextRow = currentRow - 1; nextCol = currentCol; } 
+            direction = (direction % 4) + 1;
+            if (direction == 2) { nextRow = currentRow; nextCol = currentCol + 1; } // Right
+            else if (direction == 3) { nextRow = currentRow + 1; nextCol = currentCol; } // Down
+            else if (direction == 4) { nextRow = currentRow; nextCol = currentCol - 1; } // Left
+            else if (direction == 1) { nextRow = currentRow - 1; nextCol = currentCol; } // Up
         }
 
-        if (nextRow >= 0 && nextRow < m && nextCol >= 0 && nextCol < n && matrix[nextRow][nextCol] == -1) {
-            fillMatrix(matrix, m, n, nextRow, nextCol, direction, currentNode);
-        }
+        fillMatrix(matrix, m, n, nextRow, nextCol, direction, currentNode);
     }
 
     public int[][] spiralMatrix(int m, int n, ListNode head) {
