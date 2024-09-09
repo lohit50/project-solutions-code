@@ -1,6 +1,6 @@
 class Solution {
     private void backtrack(int start,List<List<Integer>> res,List<Integer> combination,int[] candidates,int target){
-        if(target == 0) res.add(new ArrayList<>(combination));
+        if(target == 0) {res.add(new ArrayList<>(combination)); return;}
         if(target<0) return;
         for(int i=start;i<candidates.length;i++){
             combination.add(candidates[i]);
