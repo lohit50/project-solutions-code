@@ -242,6 +242,7 @@
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/lohit50/project-solutions-code/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/lohit50/project-solutions-code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Union Find
 |  |
 | ------- |
