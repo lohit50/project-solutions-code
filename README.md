@@ -47,6 +47,7 @@
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
@@ -75,6 +76,7 @@
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lohit50/project-solutions-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -117,6 +119,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lohit50/project-solutions-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 ## Trie
@@ -242,6 +245,7 @@
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/lohit50/project-solutions-code/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lohit50/project-solutions-code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Union Find
 |  |
@@ -287,6 +291,7 @@
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 ## String Matching
