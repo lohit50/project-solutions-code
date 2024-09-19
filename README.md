@@ -93,6 +93,7 @@
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
@@ -115,6 +116,7 @@
 | [0125-valid-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
@@ -157,6 +159,7 @@
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/lohit50/project-solutions-code/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
@@ -177,6 +180,7 @@
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/lohit50/project-solutions-code/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 ## Memoization
@@ -184,6 +188,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
 | ------- |
