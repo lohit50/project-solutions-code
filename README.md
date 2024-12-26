@@ -32,6 +32,7 @@
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/lohit50/project-solutions-code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lohit50/project-solutions-code/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/lohit50/project-solutions-code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lohit50/project-solutions-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -145,6 +147,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lohit50/project-solutions-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/lohit50/project-solutions-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
