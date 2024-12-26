@@ -13,7 +13,6 @@ class Solution {
             }
             index++;
         }
-        copy[n-1] = nums[n-k-1];
         for(int i=0;i<n;i++){
             nums[i] = copy[i];
         }
