@@ -1,27 +1,19 @@
 class Solution {
-    public int[] nextGreaterElement(int[] arr1, int[] arr2) {
-        int[] result = new int[arr1.length];
-        int flag = 0;
+    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        int[] arr = new int[nums1.length];
         int index = 0;
-        for(int i=0;i<arr1.length;i++){
-            for(int j=0;j<arr2.length;j++){
-                if(arr2[j] == arr1[i]){
-                    flag = 1;
+        for(int i=0;i<nums1.length;i++){
+            int num = nums1[i];
+            int flag = 0;
+            for(int j=0;j<nums2.length;j++){
+                if(nums2[j] == num && flag == 0) flag = 1;
+                if(flag == 1 && nums2[j]>num){
+                    arr[index++] = nums2[j];
+                    break;
                 }
-                if(flag == 1){
-                    if(arr2[j]>arr1[i]){
-                        result[index++] = arr2[j];
-                        flag = 0;
-                    }
-                }
-                if(j==arr2.length-1 && flag == 1){
-                    result[index++] = -1;
-                }
+                if(j == nums2.length-1)          arr[index++] = -1;
             }
-            flag = 0;
         }
-
-        return result;
-
+        return arr;
     }
 }
