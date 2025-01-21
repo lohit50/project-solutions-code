@@ -30,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lohit50/project-solutions-code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lohit50/project-solutions-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/lohit50/project-solutions-code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
@@ -95,6 +96,7 @@
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lohit50/project-solutions-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lohit50/project-solutions-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
@@ -223,6 +225,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lohit50/project-solutions-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 ## Brainteaser
