@@ -77,6 +77,7 @@
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/lohit50/project-solutions-code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
@@ -126,6 +127,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/lohit50/project-solutions-code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
@@ -310,6 +312,7 @@
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/lohit50/project-solutions-code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
@@ -409,4 +412,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
