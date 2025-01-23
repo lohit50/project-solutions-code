@@ -49,6 +49,7 @@
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
+| [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -81,6 +82,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
+| [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
@@ -424,4 +426,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
