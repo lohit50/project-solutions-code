@@ -161,6 +161,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lohit50/project-solutions-code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/lohit50/project-solutions-code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/lohit50/project-solutions-code/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
