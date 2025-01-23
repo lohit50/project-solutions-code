@@ -153,6 +153,7 @@
 | [0125-valid-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lohit50/project-solutions-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
@@ -163,6 +164,7 @@
 | [0002-add-two-numbers](https://github.com/lohit50/project-solutions-code/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lohit50/project-solutions-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/lohit50/project-solutions-code/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
@@ -176,6 +178,7 @@
 | [0050-powx-n](https://github.com/lohit50/project-solutions-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/lohit50/project-solutions-code/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
@@ -232,6 +235,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lohit50/project-solutions-code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 ## Brainteaser
