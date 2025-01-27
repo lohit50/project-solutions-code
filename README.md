@@ -132,6 +132,7 @@
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/lohit50/project-solutions-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
@@ -162,6 +163,7 @@
 | [0234-palindrome-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lohit50/project-solutions-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
