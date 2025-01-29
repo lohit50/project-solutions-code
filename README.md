@@ -51,6 +51,7 @@
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
@@ -86,6 +87,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -140,6 +142,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lohit50/project-solutions-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
@@ -234,6 +237,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sliding Window
 |  |
@@ -296,6 +300,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -408,6 +413,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lohit50/project-solutions-code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -430,6 +436,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lohit50/project-solutions-code/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
+| [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
 |  |
