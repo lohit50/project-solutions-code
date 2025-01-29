@@ -1,6 +1,11 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-         Set<Integer> set = IntStream.of(nums).boxed().collect(Collectors.toSet());
-        return set.size() != nums.length;
+        Set<Integer> set = new HashSet<>();
+        for( int num : nums){
+            if(!set.add(num)){
+                return true;
+            }
+        }
+        return false;
     }
 }
