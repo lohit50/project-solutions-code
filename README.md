@@ -447,6 +447,7 @@
 | [0039-combination-sum](https://github.com/lohit50/project-solutions-code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lohit50/project-solutions-code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/lohit50/project-solutions-code/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/lohit50/project-solutions-code/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/lohit50/project-solutions-code/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
