@@ -10,8 +10,8 @@ class Solution {
                 result = Math.max(result,max);
                 max = nums[i];
             }
-            result = Math.max(result,max);
         }
+    result = Math.max(result,max);
     return result;
     }
 }
