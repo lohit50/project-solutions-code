@@ -67,6 +67,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohit50/project-solutions-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lohit50/project-solutions-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
