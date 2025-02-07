@@ -67,6 +67,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
+| [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohit50/project-solutions-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3429-special-array-i) |
@@ -246,6 +247,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohit50/project-solutions-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |
