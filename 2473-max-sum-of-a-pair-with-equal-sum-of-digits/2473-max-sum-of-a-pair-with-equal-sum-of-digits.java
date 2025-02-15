@@ -20,7 +20,9 @@ class Solution {
             if(map.containsKey(digitsum)){
                 result = Math.max(result, map.get(digitsum) + num);
             }
-            map.put(digitsum, Math.max(map.getOrDefault(digitsum, 0), num));
+            if(map.getOrDefault(digitsum,0) < num){
+                map.put(digitsum,num);
+            }
         }
 
         return result;
