@@ -127,6 +127,7 @@
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/lohit50/project-solutions-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -463,6 +464,7 @@
 | [0046-permutations](https://github.com/lohit50/project-solutions-code/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lohit50/project-solutions-code/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/lohit50/project-solutions-code/tree/master/0216-combination-sum-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/lohit50/project-solutions-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
