@@ -53,6 +53,7 @@
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lohit50/project-solutions-code/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lohit50/project-solutions-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
@@ -289,6 +290,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lohit50/project-solutions-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
