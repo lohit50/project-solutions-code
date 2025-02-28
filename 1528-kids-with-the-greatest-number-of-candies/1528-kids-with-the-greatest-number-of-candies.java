@@ -6,7 +6,9 @@ class Solution {
             if( candies[i] > greatest) greatest = candies[i];
         }
         for(int i = 0; i < candies.length; i++){
-            result.add( (candies[i] + extraCandies) >= greatest ? true : false);
+            // result.add( (candies[i] + extraCandies) >= greatest ? true : false);
+            if(candies[i] + extraCandies >= greatest) result.add(true);
+            else result.add(false);
         }
         return result;
     }
