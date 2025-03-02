@@ -76,6 +76,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
@@ -115,6 +116,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lohit50/project-solutions-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lohit50/project-solutions-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -206,6 +208,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
 |  |
 | ------- |
