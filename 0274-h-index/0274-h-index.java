@@ -5,6 +5,7 @@ class Solution {
             int count = 0;
             for(int j = 0; j < citations.length; j++){
                 if(citations[j] >= citations[i] && citations[i] != 0){
+                   
                     count++;
                 }
             }
