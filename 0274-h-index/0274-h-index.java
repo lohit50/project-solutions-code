@@ -1,18 +1,21 @@
-
 class Solution {
     public int hIndex(int[] citations) {
-        Arrays.sort(citations);
-        int n = citations.length;
-        int hIndex = 0;
-
-        for (int i = n - 1; i >= 0; i--) {
-            int remainingPapers = n - i;
-            if (citations[i] >= remainingPapers) {
-                hIndex = remainingPapers;
-            } else {
-                break;
+        int result = 0;
+        for(int i = 0; i < citations.length; i++){
+            int count = 0;
+            for(int j = 0; j < citations.length; j++){
+                if(citations[j] >= citations[i] && citations[i] != 0){
+                    count++;
+                }
             }
+            if (count >= citations[i]) {
+                result = Math.max(result, citations[i]);
+            } else {
+                result = Math.max(result, count);
+            }
+
         }
-        return hIndex;
+        return result;
     }
 }
+
