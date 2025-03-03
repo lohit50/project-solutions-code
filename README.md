@@ -72,6 +72,7 @@
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
@@ -206,6 +207,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -366,6 +368,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lohit50/project-solutions-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
