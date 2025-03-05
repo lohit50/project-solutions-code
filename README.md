@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lohit50/project-solutions-code/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/lohit50/project-solutions-code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 ## Prefix Sum
 |  |
@@ -384,6 +386,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/lohit50/project-solutions-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lohit50/project-solutions-code/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -477,6 +480,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lohit50/project-solutions-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lohit50/project-solutions-code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
@@ -500,6 +504,7 @@
 | [0101-symmetric-tree](https://github.com/lohit50/project-solutions-code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lohit50/project-solutions-code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
