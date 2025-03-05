@@ -74,6 +74,7 @@
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -118,6 +119,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lohit50/project-solutions-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
@@ -383,6 +385,7 @@
 | [0064-minimum-path-sum](https://github.com/lohit50/project-solutions-code/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
