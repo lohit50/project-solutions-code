@@ -146,6 +146,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/lohit50/project-solutions-code/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lohit50/project-solutions-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/lohit50/project-solutions-code/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lohit50/project-solutions-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -519,6 +520,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/lohit50/project-solutions-code/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
