@@ -9,7 +9,6 @@ class Solution {
                 else if(j == 0) grid[i][j] = grid[i-1][j];
                 else grid[i][j] = grid[i-1][j] + grid[i][j-1];
             }
-        System.out.println(Arrays.toString(grid[i]));
         }
         return grid[grid.length - 1][grid[grid.length - 1].length - 1];
     }
