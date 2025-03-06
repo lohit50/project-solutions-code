@@ -3,19 +3,18 @@ class Solution {
         int []ans=new int[2];
         int n=grid.length;
         int N=n*n;
+        int sum = N * (N + 1) / 2;
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[i].length;j++){
-               map.put(grid[i][j],map.getOrDefault(grid[i][j],0)+1);
-            }
-        }for(int i=1;i<=N;i++){
-           if(map.containsKey(i) && map.get(i) > 1){
-            ans[0]=i;
-            }
-            if(!map.containsKey(i)){
-                ans[1]=i;
+               if(map.containsKey(grid[i][j])) ans[0] = grid[i][j];
+               else{
+                map.put(grid[i][j],1);
+                sum -= grid[i][j];
+               }
             }
         }
+        ans[1] = sum;
         return ans;
     }
 }
