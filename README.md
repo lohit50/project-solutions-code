@@ -193,6 +193,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lohit50/project-solutions-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lohit50/project-solutions-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
@@ -301,6 +302,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohit50/project-solutions-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/lohit50/project-solutions-code/tree/master/0643-maximum-average-subarray-i) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lohit50/project-solutions-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
