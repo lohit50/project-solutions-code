@@ -186,6 +186,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [0961-long-pressed-name](https://github.com/lohit50/project-solutions-code/tree/master/0961-long-pressed-name) |
 | [1160-letter-tile-possibilities](https://github.com/lohit50/project-solutions-code/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/lohit50/project-solutions-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -222,6 +223,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
+| [0961-long-pressed-name](https://github.com/lohit50/project-solutions-code/tree/master/0961-long-pressed-name) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
