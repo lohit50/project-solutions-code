@@ -17,7 +17,7 @@ class Solution {
             else black_count++;
             if(blocks.charAt(left - 1) == 'W') white_count--;
             else black_count--;
-            min = Math.min(min,white_count);
+            if(min > white_count) min = white_count;
             right++;
             left++;
         }
