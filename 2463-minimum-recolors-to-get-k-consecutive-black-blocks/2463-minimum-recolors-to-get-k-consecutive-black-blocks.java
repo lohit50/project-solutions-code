@@ -4,7 +4,6 @@ class Solution {
         int left = 0;
         int right = k-1;
         for(int i = left; i <= right; i++){
-            System.out.print(blocks.charAt(i));
             if(blocks.charAt(i) == 'W') white_count++;
         }
         int min = white_count;
