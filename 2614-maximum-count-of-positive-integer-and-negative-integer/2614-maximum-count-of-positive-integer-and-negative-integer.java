@@ -5,6 +5,7 @@ class Solution {
         for(int i = 0; i < nums.length; i++){
             if(nums[nums.length - 1 - i] > 0) pos_count++;
             if(nums[i] < 0) neg_count++;
+            if(nums[i] > 0) return Math.max(neg_count,nums.length - i);
         }
         return pos_count > neg_count ? pos_count : neg_count;
     }
