@@ -1,23 +1,11 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int n = nums.length;
-        int countNegative = 0;
-        int countPositive = 0;
-
-        if(nums[0] < 0 && nums[n-1] < 0){
-            return n;
-        }else if(nums[0] > 0 && nums[n-1] > 0){
-            return n;
+        int pos_count = 0;
+        int neg_count = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(nums[nums.length - 1 - i] > 0) pos_count++;
+            if(nums[i] < 0) neg_count++;
         }
-
-        for (int i = 0; i < n; i++) {
-            if (nums[i] < 0) {
-                countNegative++;
-            } else if (nums[i] > 0) {
-                countPositive++;
-            }
-        }
-
-        return Math.max(countNegative, countPositive);
+        return pos_count > neg_count ? pos_count : neg_count;
     }
 }
