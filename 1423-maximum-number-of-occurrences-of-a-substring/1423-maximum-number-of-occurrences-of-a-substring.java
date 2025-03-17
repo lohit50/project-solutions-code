@@ -11,28 +11,29 @@ class Solution {
             letters[s.charAt(i)]++;
         }
 
-        if (unique_letter <= maxLetters) {
-            String sub = s.substring(l, l + minSize);
-            freqMap.put(sub, freqMap.getOrDefault(sub, 0) + 1);
-            max = Math.max(max, freqMap.get(sub));
-        }
+        // if (unique_letter <= maxLetters) {
+        //     String sub = s.substring(l, l + minSize);
+        //     freqMap.put(sub, freqMap.getOrDefault(sub, 0) + 1);
+        //     max = Math.max(max, freqMap.get(sub));
+        // }
 
-        for (int r = minSize; r < s.length(); r++) {
-            if (letters[s.charAt(r)] == 0) {
-                unique_letter++;
-            }
-            letters[s.charAt(r)]++;
-
-            letters[s.charAt(l)]--;
-            if (letters[s.charAt(l)] == 0) {
-                unique_letter--;
-            }
-            l++;
-
+        for (int r = minSize - 1; r < s.length(); r++) {
             if (unique_letter <= maxLetters) {
                 String sub = s.substring(l, l + minSize);
                 freqMap.put(sub, freqMap.getOrDefault(sub, 0) + 1);
                 max = Math.max(max, freqMap.get(sub));
+            }
+             if (r + 1 < s.length()) {
+                if (letters[s.charAt(r + 1)] == 0) {
+                    unique_letter++;
+                }
+                letters[s.charAt(r + 1)]++;
+
+                letters[s.charAt(l)]--;
+                if (letters[s.charAt(l)] == 0) {
+                    unique_letter--;
+                }
+                l++;
             }
         }
 
