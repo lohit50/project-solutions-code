@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public int maxFreq(String s, int maxLetters, int minSize, int maxSize) {
         HashMap<String, Integer> freqMap = new HashMap<>();
