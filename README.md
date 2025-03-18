@@ -62,6 +62,7 @@
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/lohit50/project-solutions-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1505-create-target-array-in-the-given-order](https://github.com/lohit50/project-solutions-code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lohit50/project-solutions-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -125,6 +126,7 @@
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/lohit50/project-solutions-code/tree/master/1160-letter-tile-possibilities) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/lohit50/project-solutions-code/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lohit50/project-solutions-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/lohit50/project-solutions-code/tree/master/1635-number-of-good-pairs) |
@@ -290,6 +292,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lohit50/project-solutions-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lohit50/project-solutions-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
