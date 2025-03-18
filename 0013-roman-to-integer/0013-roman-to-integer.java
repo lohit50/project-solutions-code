@@ -37,7 +37,6 @@ class Solution {
             }
             result += map.get(pull);
             if(pull.length() == 2) i++;
-            System.out.println(result);
         }
         return result;
     }
