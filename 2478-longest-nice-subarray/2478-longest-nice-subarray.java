@@ -3,15 +3,15 @@ class Solution {
         int longest = 1;
         int l = 0;
         int r = 0;
-
-        while (r < nums.length) {
-            if (checkAll(nums, l, r)) { 
+        while (r < nums.length - 1) {
+            r++;
+            if ((nums[r] & nums[r - 1]) == 0) {
+                while (!checkAll(nums, l, r)) {
+                    l++;
+                }
                 longest = Math.max(longest, r - l + 1);
-                r++;
-            } else {
-                l++;
-                if (l > r) r = l;
-            }
+            } 
+            else l = r;
         }
         return longest;
     }
