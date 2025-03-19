@@ -7,37 +7,39 @@ class Solution {
         int bottom = matrix.length - 1;
         int left = 0;
         int right = matrix[0].length - 1;
-
-        while(left <= right && top <= bottom){
+        int remain = matrix[0].length * matrix.length;
+        while(remain > 0){
 
             // top row filling : 
            for(int i = left; i <= right ; i++){
-             list.add(matrix[top][i]);
+                list.add(matrix[top][i]);
+                remain--;
            }
            top++;
 
             // right row filling :
             for(int i = top; i <= bottom; i++){
                 list.add(matrix[i][right]);
+                remain--;
             }
             right--;
 
 
             // bottom row filling :
-            if(top <= bottom){
             for(int i = right; i >= left; i--){
+                if(remain <= 0) break;
                 list.add(matrix[bottom][i]);
+                remain--;
             }
             bottom--;
-            }
             
             // left row filling :
-            if(left <= right){
             for(int i = bottom ; i >= top ; i--){
+                if(remain <= 0) break;
                 list.add(matrix[i][left]);
+                remain--;
             }
             left++;
-            }
         }
 
         return list;
