@@ -17,6 +17,7 @@
 | [0041-first-missing-positive](https://github.com/lohit50/project-solutions-code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/lohit50/project-solutions-code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/lohit50/project-solutions-code/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/lohit50/project-solutions-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lohit50/project-solutions-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lohit50/project-solutions-code/tree/master/0063-unique-paths-ii) |
@@ -154,6 +155,7 @@
 | [0012-integer-to-roman](https://github.com/lohit50/project-solutions-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lohit50/project-solutions-code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/lohit50/project-solutions-code/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/lohit50/project-solutions-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lohit50/project-solutions-code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/lohit50/project-solutions-code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
@@ -436,6 +438,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lohit50/project-solutions-code/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/lohit50/project-solutions-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lohit50/project-solutions-code/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
