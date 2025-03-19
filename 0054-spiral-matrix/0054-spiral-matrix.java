@@ -27,7 +27,6 @@ class Solution {
 
             // bottom row filling :
             for(int i = right; i >= left; i--){
-                if(remain <= 0) break;
                 list.add(matrix[bottom][i]);
                 remain--;
             }
@@ -35,13 +34,12 @@ class Solution {
             
             // left row filling :
             for(int i = bottom ; i >= top ; i--){
-                if(remain <= 0) break;
                 list.add(matrix[i][left]);
                 remain--;
             }
             left++;
         }
 
-        return list;
+        return list.subList(0,matrix[0].length * matrix.length);
     }
 }
