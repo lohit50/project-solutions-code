@@ -95,6 +95,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/lohit50/project-solutions-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohit50/project-solutions-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3429-special-array-i) |
@@ -402,6 +403,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/lohit50/project-solutions-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lohit50/project-solutions-code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/lohit50/project-solutions-code/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohit50/project-solutions-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -409,6 +411,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -598,6 +601,7 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting Sort
 |  |
 | ------- |
