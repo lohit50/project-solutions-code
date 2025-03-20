@@ -202,6 +202,7 @@
 | [0076-minimum-window-substring](https://github.com/lohit50/project-solutions-code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/lohit50/project-solutions-code/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/lohit50/project-solutions-code/tree/master/0273-integer-to-english-words) |
@@ -243,6 +244,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lohit50/project-solutions-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/lohit50/project-solutions-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0234-palindrome-linked-list) |
