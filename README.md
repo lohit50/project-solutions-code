@@ -24,6 +24,7 @@
 | [0063-unique-paths-ii](https://github.com/lohit50/project-solutions-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lohit50/project-solutions-code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/lohit50/project-solutions-code/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/lohit50/project-solutions-code/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/lohit50/project-solutions-code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lohit50/project-solutions-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lohit50/project-solutions-code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -198,6 +199,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/lohit50/project-solutions-code/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/lohit50/project-solutions-code/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/lohit50/project-solutions-code/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lohit50/project-solutions-code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lohit50/project-solutions-code/tree/master/0125-valid-palindrome) |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lohit50/project-solutions-code/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/lohit50/project-solutions-code/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
