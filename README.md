@@ -418,6 +418,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
 |  |
@@ -556,6 +557,7 @@
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -580,6 +582,7 @@
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -610,6 +613,7 @@
 | ------- |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lohit50/project-solutions-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting Sort
 |  |
