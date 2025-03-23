@@ -313,6 +313,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lohit50/project-solutions-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lohit50/project-solutions-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lohit50/project-solutions-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -612,6 +613,7 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lohit50/project-solutions-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lohit50/project-solutions-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -622,5 +624,10 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lohit50/project-solutions-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lohit50/project-solutions-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lohit50/project-solutions-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
