@@ -101,6 +101,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohit50/project-solutions-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lohit50/project-solutions-code/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/lohit50/project-solutions-code/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohit50/project-solutions-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/lohit50/project-solutions-code/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lohit50/project-solutions-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -337,6 +338,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
+| [3430-count-days-without-meetings](https://github.com/lohit50/project-solutions-code/tree/master/3430-count-days-without-meetings) |
 ## Sliding Window
 |  |
 | ------- |
