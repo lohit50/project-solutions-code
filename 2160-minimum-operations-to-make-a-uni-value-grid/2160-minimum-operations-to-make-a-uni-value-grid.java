@@ -3,11 +3,8 @@ class Solution {
     public static int Count(List<Integer> list, int x){
         int count = 0;
         int divisor = list.get(list.size()/2);
-        System.out.println("divisor : " + divisor);
         for(int i = 0; i < list.size(); i++){
-            if(Math.abs(list.get(i) - divisor) % x != 0){
-                return -1;
-            }
+            if(Math.abs(list.get(i) - divisor) % x != 0)  return -1;
             count += Math.abs(list.get(i) - divisor) / x;
         }
         return count;
@@ -22,7 +19,6 @@ class Solution {
             }
         }   
         Collections.sort(list);
-        System.out.println(list);
         return Count(list,x);
     }
 }
