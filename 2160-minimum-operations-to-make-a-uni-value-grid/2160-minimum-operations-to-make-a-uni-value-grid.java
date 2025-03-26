@@ -16,6 +16,7 @@ class Solution {
         for(int i = 0; i < grid.length; i++){
             for(int j = 0; j < grid[0].length; j++){
                 list.add(grid[i][j]);
+                if(grid[i][j] % x != grid[0][0] % x) return -1;
             }
         }   
         Collections.sort(list);
