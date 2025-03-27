@@ -13,21 +13,17 @@ class Solution {
                 dominant = nums.get(i);
             }
         }
-        // System.out.println(dominant);
 
         // fnd dom validity 
         int count = 0;
         for(int i = 0; i < nums.size(); i++){
             if(nums.get(i) == dominant){
                 count++;
-            }
-            if(count * 2 > (i+1)){
-                int rightremain = freq - count;
-                int rightlength = nums.size() - (i+1);
-                if(rightremain * 2 > rightlength) return i;
+                if(count * 2 > (i+1)){
+                    if( (freq - count) * 2 > nums.size() - (i+1) ) return i;
+                }
             }
         }
-        // System.out.println(map);
         return -1;
     }
 }
