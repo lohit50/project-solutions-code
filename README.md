@@ -90,6 +90,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/lohit50/project-solutions-code/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/lohit50/project-solutions-code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/lohit50/project-solutions-code/tree/master/2690-house-robber-iv) |
@@ -269,6 +270,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
 |  |
@@ -343,6 +345,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lohit50/project-solutions-code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/lohit50/project-solutions-code/tree/master/3430-count-days-without-meetings) |
@@ -429,6 +432,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lohit50/project-solutions-code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lohit50/project-solutions-code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
@@ -473,6 +477,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohit50/project-solutions-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -534,6 +539,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -594,6 +600,7 @@
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
