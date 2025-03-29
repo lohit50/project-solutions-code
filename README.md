@@ -89,6 +89,7 @@
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/lohit50/project-solutions-code/tree/master/2478-longest-nice-subarray) |
+| [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -345,6 +346,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lohit50/project-solutions-code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
@@ -378,6 +380,7 @@
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 ## Brainteaser
 |  |
 | ------- |
@@ -399,6 +402,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lohit50/project-solutions-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/lohit50/project-solutions-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/lohit50/project-solutions-code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/lohit50/project-solutions-code/tree/master/2690-house-robber-iv) |
@@ -514,6 +518,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/lohit50/project-solutions-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
+| [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -539,6 +544,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
 |  |
