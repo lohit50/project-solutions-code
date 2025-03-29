@@ -98,6 +98,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lohit50/project-solutions-code/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohit50/project-solutions-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
@@ -194,6 +195,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/lohit50/project-solutions-code/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lohit50/project-solutions-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohit50/project-solutions-code/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -349,6 +351,7 @@
 | [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lohit50/project-solutions-code/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/lohit50/project-solutions-code/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lohit50/project-solutions-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -381,6 +384,7 @@
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -491,6 +495,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohit50/project-solutions-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/lohit50/project-solutions-code/tree/master/0135-candy) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |
@@ -519,6 +524,7 @@
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
 | [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -628,6 +634,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/lohit50/project-solutions-code/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lohit50/project-solutions-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
