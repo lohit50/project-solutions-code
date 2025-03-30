@@ -138,6 +138,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/lohit50/project-solutions-code/tree/master/1160-letter-tile-possibilities) |
@@ -227,6 +228,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/lohit50/project-solutions-code/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [0961-long-pressed-name](https://github.com/lohit50/project-solutions-code/tree/master/0961-long-pressed-name) |
 | [1160-letter-tile-possibilities](https://github.com/lohit50/project-solutions-code/tree/master/1160-letter-tile-possibilities) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/lohit50/project-solutions-code/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -268,6 +270,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/lohit50/project-solutions-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/lohit50/project-solutions-code/tree/master/0961-long-pressed-name) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -494,6 +497,7 @@
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohit50/project-solutions-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/lohit50/project-solutions-code/tree/master/0135-candy) |
+| [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/lohit50/project-solutions-code/tree/master/3334-apple-redistribution-into-boxes) |
