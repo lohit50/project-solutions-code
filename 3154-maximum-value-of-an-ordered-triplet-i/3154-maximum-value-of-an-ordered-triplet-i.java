@@ -1,11 +1,18 @@
 class Solution {
     public long maximumTripletValue(int[] nums) {
-        long maxTriplet = 0, maxElement = 0, maxDiff = 0;
-        for (int num : nums) {
-            maxTriplet = Math.max(maxTriplet, maxDiff * num);
-            maxDiff = Math.max(maxDiff, maxElement - num);
-            maxElement = Math.max(maxElement, num);
+        long max = 0;
+        int n = nums.length;
+        // Loop for left index (i)
+        for (int left = 0; left < n - 2; left++) {
+            // Loop for mid index (j), ensuring j > left
+            for (int mid = left + 1; mid < n - 1; mid++) {
+                // Loop for right index (k), ensuring k > mid
+                for (int right = mid + 1; right < n; right++) {
+                    long currentValue = (long)(nums[left] - nums[mid]) * nums[right];
+                    max = Math.max(max, currentValue);
+                }
+            }
         }
-        return maxTriplet;
+        return max;
     }
 }
