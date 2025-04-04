@@ -146,6 +146,7 @@
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/lohit50/project-solutions-code/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lohit50/project-solutions-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/lohit50/project-solutions-code/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lohit50/project-solutions-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -584,6 +585,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/lohit50/project-solutions-code/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/lohit50/project-solutions-code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lohit50/project-solutions-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -598,6 +600,7 @@
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lohit50/project-solutions-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -612,6 +615,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/lohit50/project-solutions-code/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/lohit50/project-solutions-code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lohit50/project-solutions-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -623,6 +627,7 @@
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lohit50/project-solutions-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/lohit50/project-solutions-code/tree/master/1484-linked-list-in-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/lohit50/project-solutions-code/tree/master/2793-count-the-number-of-complete-components) |
