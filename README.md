@@ -78,6 +78,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lohit50/project-solutions-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lohit50/project-solutions-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/lohit50/project-solutions-code/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lohit50/project-solutions-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lohit50/project-solutions-code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -196,6 +197,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lohit50/project-solutions-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/lohit50/project-solutions-code/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lohit50/project-solutions-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lohit50/project-solutions-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
@@ -443,6 +445,7 @@
 | [0287-find-the-duplicate-number](https://github.com/lohit50/project-solutions-code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/lohit50/project-solutions-code/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lohit50/project-solutions-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lohit50/project-solutions-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lohit50/project-solutions-code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/lohit50/project-solutions-code/tree/master/2478-longest-nice-subarray) |
@@ -561,6 +564,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lohit50/project-solutions-code/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lohit50/project-solutions-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -646,6 +650,7 @@
 | [0216-combination-sum-iii](https://github.com/lohit50/project-solutions-code/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/lohit50/project-solutions-code/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/lohit50/project-solutions-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lohit50/project-solutions-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/lohit50/project-solutions-code/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lohit50/project-solutions-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -682,4 +687,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lohit50/project-solutions-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lohit50/project-solutions-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
