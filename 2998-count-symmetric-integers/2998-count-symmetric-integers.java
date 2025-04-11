@@ -20,6 +20,7 @@ class Solution {
         for(int i = low; i<= high; i++){
             if(Check(i)){
                 count++;
+                i+=5;
             }
         }
         return count;
