@@ -44,6 +44,7 @@
 | [0200-number-of-islands](https://github.com/lohit50/project-solutions-code/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/lohit50/project-solutions-code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lohit50/project-solutions-code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lohit50/project-solutions-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
@@ -136,6 +137,7 @@
 | [0202-happy-number](https://github.com/lohit50/project-solutions-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/lohit50/project-solutions-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/lohit50/project-solutions-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lohit50/project-solutions-code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lohit50/project-solutions-code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
@@ -390,6 +392,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohit50/project-solutions-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/lohit50/project-solutions-code/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/lohit50/project-solutions-code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lohit50/project-solutions-code/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/lohit50/project-solutions-code/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lohit50/project-solutions-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
