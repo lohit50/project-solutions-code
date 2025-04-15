@@ -90,6 +90,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/lohit50/project-solutions-code/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lohit50/project-solutions-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/lohit50/project-solutions-code/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -439,6 +440,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lohit50/project-solutions-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/lohit50/project-solutions-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lohit50/project-solutions-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/lohit50/project-solutions-code/tree/master/2665-minimum-time-to-repair-cars) |
@@ -452,6 +454,7 @@
 | [0169-majority-element](https://github.com/lohit50/project-solutions-code/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/lohit50/project-solutions-code/tree/master/0347-top-k-frequent-elements) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -565,18 +568,22 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohit50/project-solutions-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lohit50/project-solutions-code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
