@@ -14,9 +14,9 @@ class Solution {
                 for(int index : ls){
                     if((i * index) % k == 0) pairs++;
                 }
-                // ls.add(i);
-                // map.put(nums[i],ls);
-                map.get(nums[i]).add(i);
+                ls.add(i);
+                map.put(nums[i],ls);
+                // map.get(nums[i]).add(i);
                 continue;
             }
             map.put(nums[i],new ArrayList<>());
