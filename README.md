@@ -164,6 +164,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/lohit50/project-solutions-code/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lohit50/project-solutions-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/lohit50/project-solutions-code/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/lohit50/project-solutions-code/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lohit50/project-solutions-code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -211,6 +212,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/lohit50/project-solutions-code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/lohit50/project-solutions-code/tree/master/0797-rabbits-in-forest) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/lohit50/project-solutions-code/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/lohit50/project-solutions-code/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lohit50/project-solutions-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/lohit50/project-solutions-code/tree/master/1635-number-of-good-pairs) |
