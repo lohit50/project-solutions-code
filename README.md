@@ -110,6 +110,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lohit50/project-solutions-code/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/lohit50/project-solutions-code/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/lohit50/project-solutions-code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/lohit50/project-solutions-code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -177,6 +178,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/lohit50/project-solutions-code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lohit50/project-solutions-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lohit50/project-solutions-code/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/lohit50/project-solutions-code/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohit50/project-solutions-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/lohit50/project-solutions-code/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lohit50/project-solutions-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -503,6 +505,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lohit50/project-solutions-code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lohit50/project-solutions-code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/lohit50/project-solutions-code/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/lohit50/project-solutions-code/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohit50/project-solutions-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/lohit50/project-solutions-code/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
