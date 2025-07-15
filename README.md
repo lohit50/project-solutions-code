@@ -285,6 +285,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lohit50/project-solutions-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/lohit50/project-solutions-code/tree/master/2727-number-of-senior-citizens) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lohit50/project-solutions-code/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/lohit50/project-solutions-code/tree/master/3396-valid-word) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lohit50/project-solutions-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
 |  |
