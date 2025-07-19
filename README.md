@@ -62,6 +62,7 @@
 | [0496-next-greater-element-i](https://github.com/lohit50/project-solutions-code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/lohit50/project-solutions-code/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/lohit50/project-solutions-code/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/lohit50/project-solutions-code/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/lohit50/project-solutions-code/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lohit50/project-solutions-code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -401,6 +402,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lohit50/project-solutions-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/lohit50/project-solutions-code/tree/master/0368-largest-divisible-subset) |
+| [0561-array-partition](https://github.com/lohit50/project-solutions-code/tree/master/0561-array-partition) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -567,6 +569,7 @@
 | [0055-jump-game](https://github.com/lohit50/project-solutions-code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohit50/project-solutions-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/lohit50/project-solutions-code/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/lohit50/project-solutions-code/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/lohit50/project-solutions-code/tree/master/0797-rabbits-in-forest) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/lohit50/project-solutions-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -741,6 +744,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/lohit50/project-solutions-code/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/lohit50/project-solutions-code/tree/master/0561-array-partition) |
 ## Topological Sort
 |  |
 | ------- |
