@@ -90,6 +90,7 @@
 | [2155-find-missing-observations](https://github.com/lohit50/project-solutions-code/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lohit50/project-solutions-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/lohit50/project-solutions-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/lohit50/project-solutions-code/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/lohit50/project-solutions-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/lohit50/project-solutions-code/tree/master/2262-solving-questions-with-brainpower) |
@@ -403,6 +404,7 @@
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/lohit50/project-solutions-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lohit50/project-solutions-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2549-next-greater-element-iv](https://github.com/lohit50/project-solutions-code/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/lohit50/project-solutions-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -567,6 +569,7 @@
 | [0135-candy](https://github.com/lohit50/project-solutions-code/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/lohit50/project-solutions-code/tree/master/0797-rabbits-in-forest) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/lohit50/project-solutions-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lohit50/project-solutions-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/lohit50/project-solutions-code/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lohit50/project-solutions-code/tree/master/3001-apply-operations-to-maximize-score) |
