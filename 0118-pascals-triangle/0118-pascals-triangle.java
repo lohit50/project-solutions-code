@@ -12,9 +12,10 @@ class Solution {
     }
     public static void AddList(List<List<Integer>> result){
         List<Integer> temp = new ArrayList<>();
+        List<Integer> prev = result.get(result.size() - 1);
         temp.add(1);
-        for(int i = 0; i < result.get(result.size() - 1).size() - 1; i++){
-            temp.add(result.get(result.size() - 1).get(i) + result.get(result.size() - 1).get(i+1));
+        for(int i = 0; i < prev.size() - 1; i++){
+            temp.add(prev.get(i) + prev.get(i+1));
         }
         temp.add(1);
         result.add(temp);
