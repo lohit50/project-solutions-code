@@ -29,6 +29,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lohit50/project-solutions-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lohit50/project-solutions-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/lohit50/project-solutions-code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/lohit50/project-solutions-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit50/project-solutions-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohit50/project-solutions-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohit50/project-solutions-code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -365,6 +366,7 @@
 | [0064-minimum-path-sum](https://github.com/lohit50/project-solutions-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/lohit50/project-solutions-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lohit50/project-solutions-code/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/lohit50/project-solutions-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohit50/project-solutions-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohit50/project-solutions-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohit50/project-solutions-code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
