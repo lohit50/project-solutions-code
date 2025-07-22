@@ -8,7 +8,7 @@ class Solution {
             char leftChar = s.charAt(left);
             char rightChar = s.charAt(right);
             System.out.println(leftChar + " - " + rightChar);
-            if(Character.isLetterOrDigit(leftChar) && Character.isLetterOrDigit(rightChar) && Character.toLowerCase(leftChar) != Character.toLowerCase(rightChar)){
+            if(Character.toLowerCase(leftChar) != Character.toLowerCase(rightChar)){
                 return false;
             }
             left++;
