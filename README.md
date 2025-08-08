@@ -70,6 +70,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lohit50/project-solutions-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/lohit50/project-solutions-code/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/lohit50/project-solutions-code/tree/master/0906-walking-robot-simulation) |
+| [0941-sort-array-by-parity](https://github.com/lohit50/project-solutions-code/tree/master/0941-sort-array-by-parity) |
 | [1039-find-the-town-judge](https://github.com/lohit50/project-solutions-code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/lohit50/project-solutions-code/tree/master/1240-stone-game-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/lohit50/project-solutions-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -321,6 +322,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohit50/project-solutions-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/lohit50/project-solutions-code/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/lohit50/project-solutions-code/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/lohit50/project-solutions-code/tree/master/0941-sort-array-by-parity) |
 | [0961-long-pressed-name](https://github.com/lohit50/project-solutions-code/tree/master/0961-long-pressed-name) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lohit50/project-solutions-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/lohit50/project-solutions-code/tree/master/2481-strictly-palindromic-number) |
@@ -408,6 +410,7 @@
 | [0368-largest-divisible-subset](https://github.com/lohit50/project-solutions-code/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/lohit50/project-solutions-code/tree/master/0561-array-partition) |
 | [0721-accounts-merge](https://github.com/lohit50/project-solutions-code/tree/master/0721-accounts-merge) |
+| [0941-sort-array-by-parity](https://github.com/lohit50/project-solutions-code/tree/master/0941-sort-array-by-parity) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lohit50/project-solutions-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lohit50/project-solutions-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/lohit50/project-solutions-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
